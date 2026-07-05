@@ -20,9 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Yashasvi-rai/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0486-predict-the-winner](https://github.com/Yashasvi-rai/leetcode/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Yashasvi-rai/leetcode/tree/master/0486-predict-the-winner) |
+## Linked List
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Yashasvi-rai/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->

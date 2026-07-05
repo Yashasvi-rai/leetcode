@@ -30,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Yashasvi-rai/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Yashasvi-rai/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->

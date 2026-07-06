@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Yashasvi-rai/leetcode/tree/master/0486-predict-the-winner) |
 | [1288-remove-covered-intervals](https://github.com/Yashasvi-rai/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1470-shuffle-the-array](https://github.com/Yashasvi-rai/leetcode/tree/master/1470-shuffle-the-array) |
+| [1929-concatenation-of-array](https://github.com/Yashasvi-rai/leetcode/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
 | ------- |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/Yashasvi-rai/leetcode/tree/master/1288-remove-covered-intervals) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Yashasvi-rai/leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->

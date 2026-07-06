@@ -86,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Yashasvi-rai/leetcode/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/Yashasvi-rai/leetcode/tree/master/0460-lfu-cache) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Yashasvi-rai/leetcode/tree/master/0151-reverse-words-in-a-string) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Yashasvi-rai/leetcode/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->

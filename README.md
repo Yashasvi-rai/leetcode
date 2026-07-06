@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Yashasvi-rai/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0146-lru-cache](https://github.com/Yashasvi-rai/leetcode/tree/master/0146-lru-cache) |
 ## Database
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Yashasvi-rai/leetcode/tree/master/0146-lru-cache) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Yashasvi-rai/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Yashasvi-rai/leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yashasvi-rai/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -70,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yashasvi-rai/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Yashasvi-rai/leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Yashasvi-rai/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->

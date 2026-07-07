@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Yashasvi-rai/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Yashasvi-rai/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Yashasvi-rai/leetcode/tree/master/0018-4sum) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Yashasvi-rai/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Yashasvi-rai/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Yashasvi-rai/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Yashasvi-rai/leetcode/tree/master/0486-predict-the-winner) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Yashasvi-rai/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0486-predict-the-winner](https://github.com/Yashasvi-rai/leetcode/tree/master/0486-predict-the-winner) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Yashasvi-rai/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
@@ -106,5 +108,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Yashasvi-rai/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Yashasvi-rai/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->

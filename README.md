@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/Yashasvi-rai/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0151-reverse-words-in-a-string](https://github.com/Yashasvi-rai/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0394-decode-string](https://github.com/Yashasvi-rai/leetcode/tree/master/0394-decode-string) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Yashasvi-rai/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Yashasvi-rai/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Yashasvi-rai/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
@@ -166,4 +167,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0077-combinations](https://github.com/Yashasvi-rai/leetcode/tree/master/0077-combinations) |
 | [0093-restore-ip-addresses](https://github.com/Yashasvi-rai/leetcode/tree/master/0093-restore-ip-addresses) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Yashasvi-rai/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 <!---LeetCode Topics End-->

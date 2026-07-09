@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Yashasvi-rai/leetcode/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Yashasvi-rai/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1929-concatenation-of-array](https://github.com/Yashasvi-rai/leetcode/tree/master/1929-concatenation-of-array) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Yashasvi-rai/leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Yashasvi-rai/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Yashasvi-rai/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Math
@@ -135,12 +136,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Yashasvi-rai/leetcode/tree/master/0739-daily-temperatures) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Yashasvi-rai/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Yashasvi-rai/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Yashasvi-rai/leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Yashasvi-rai/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/Yashasvi-rai/leetcode/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Yashasvi-rai/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Yashasvi-rai/leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Yashasvi-rai/leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Yashasvi-rai/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Yashasvi-rai/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
@@ -170,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Yashasvi-rai/leetcode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Yashasvi-rai/leetcode/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Yashasvi-rai/leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Yashasvi-rai/leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3620-network-recovery-pathways](https://github.com/Yashasvi-rai/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -206,4 +211,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0687-longest-univalue-path](https://github.com/Yashasvi-rai/leetcode/tree/master/0687-longest-univalue-path) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Yashasvi-rai/leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+## Segment Tree
+|  |
+| ------- |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Yashasvi-rai/leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 <!---LeetCode Topics End-->

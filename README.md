@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yashasvi-rai/leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Yashasvi-rai/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Yashasvi-rai/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Yashasvi-rai/leetcode/tree/master/0018-4sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Yashasvi-rai/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Yashasvi-rai/leetcode/tree/master/0014-longest-common-prefix) |
 | [0093-restore-ip-addresses](https://github.com/Yashasvi-rai/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0151-reverse-words-in-a-string](https://github.com/Yashasvi-rai/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0394-decode-string](https://github.com/Yashasvi-rai/leetcode/tree/master/0394-decode-string) |
@@ -228,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Yashasvi-rai/leetcode/tree/master/0731-my-calendar-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Yashasvi-rai/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

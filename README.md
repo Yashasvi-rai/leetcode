@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0687-longest-univalue-path](https://github.com/Yashasvi-rai/leetcode/tree/master/0687-longest-univalue-path) |
 | [0743-network-delay-time](https://github.com/Yashasvi-rai/leetcode/tree/master/0743-network-delay-time) |
 ## Breadth-First Search
 |  |
@@ -197,4 +198,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Yashasvi-rai/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Tree
+|  |
+| ------- |
+| [0687-longest-univalue-path](https://github.com/Yashasvi-rai/leetcode/tree/master/0687-longest-univalue-path) |
+## Binary Tree
+|  |
+| ------- |
+| [0687-longest-univalue-path](https://github.com/Yashasvi-rai/leetcode/tree/master/0687-longest-univalue-path) |
 <!---LeetCode Topics End-->

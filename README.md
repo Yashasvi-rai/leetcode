@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Yashasvi-rai/leetcode/tree/master/0486-predict-the-winner) |
 | [0636-exclusive-time-of-functions](https://github.com/Yashasvi-rai/leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Yashasvi-rai/leetcode/tree/master/0645-set-mismatch) |
+| [0720-longest-word-in-dictionary](https://github.com/Yashasvi-rai/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0731-my-calendar-ii](https://github.com/Yashasvi-rai/leetcode/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/Yashasvi-rai/leetcode/tree/master/0739-daily-temperatures) |
 | [1288-remove-covered-intervals](https://github.com/Yashasvi-rai/leetcode/tree/master/1288-remove-covered-intervals) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Yashasvi-rai/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Yashasvi-rai/leetcode/tree/master/0018-4sum) |
 | [0645-set-mismatch](https://github.com/Yashasvi-rai/leetcode/tree/master/0645-set-mismatch) |
+| [0720-longest-word-in-dictionary](https://github.com/Yashasvi-rai/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [1288-remove-covered-intervals](https://github.com/Yashasvi-rai/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yashasvi-rai/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Simulation
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Yashasvi-rai/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0460-lfu-cache](https://github.com/Yashasvi-rai/leetcode/tree/master/0460-lfu-cache) |
 | [0645-set-mismatch](https://github.com/Yashasvi-rai/leetcode/tree/master/0645-set-mismatch) |
+| [0720-longest-word-in-dictionary](https://github.com/Yashasvi-rai/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yashasvi-rai/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Yashasvi-rai/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Bit Manipulation
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/Yashasvi-rai/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0151-reverse-words-in-a-string](https://github.com/Yashasvi-rai/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0394-decode-string](https://github.com/Yashasvi-rai/leetcode/tree/master/0394-decode-string) |
+| [0720-longest-word-in-dictionary](https://github.com/Yashasvi-rai/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Yashasvi-rai/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Yashasvi-rai/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Yashasvi-rai/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -234,4 +238,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Yashasvi-rai/leetcode/tree/master/0014-longest-common-prefix) |
+| [0720-longest-word-in-dictionary](https://github.com/Yashasvi-rai/leetcode/tree/master/0720-longest-word-in-dictionary) |
 <!---LeetCode Topics End-->

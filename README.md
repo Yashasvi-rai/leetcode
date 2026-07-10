@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Yashasvi-rai/leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yashasvi-rai/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Yashasvi-rai/leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+| [3115-maximum-prime-difference](https://github.com/Yashasvi-rai/leetcode/tree/master/3115-maximum-prime-difference) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Yashasvi-rai/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Yashasvi-rai/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Yashasvi-rai/leetcode/tree/master/3620-network-recovery-pathways) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Yashasvi-rai/leetcode/tree/master/0486-predict-the-winner) |
 | [1492-the-kth-factor-of-n](https://github.com/Yashasvi-rai/leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yashasvi-rai/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3115-maximum-prime-difference](https://github.com/Yashasvi-rai/leetcode/tree/master/3115-maximum-prime-difference) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Yashasvi-rai/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Yashasvi-rai/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
@@ -295,4 +297,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Yashasvi-rai/leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yashasvi-rai/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3115-maximum-prime-difference](https://github.com/Yashasvi-rai/leetcode/tree/master/3115-maximum-prime-difference) |
 <!---LeetCode Topics End-->

@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/Yashasvi-rai/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0731-my-calendar-ii](https://github.com/Yashasvi-rai/leetcode/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/Yashasvi-rai/leetcode/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/Yashasvi-rai/leetcode/tree/master/0877-stone-game) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Yashasvi-rai/leetcode/tree/master/1191-k-concatenation-maximum-sum) |
 | [1288-remove-covered-intervals](https://github.com/Yashasvi-rai/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Yashasvi-rai/leetcode/tree/master/1354-construct-target-array-with-multiple-sums) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Yashasvi-rai/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0292-nim-game](https://github.com/Yashasvi-rai/leetcode/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/Yashasvi-rai/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Yashasvi-rai/leetcode/tree/master/0877-stone-game) |
 | [1492-the-kth-factor-of-n](https://github.com/Yashasvi-rai/leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yashasvi-rai/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3115-maximum-prime-difference](https://github.com/Yashasvi-rai/leetcode/tree/master/3115-maximum-prime-difference) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Yashasvi-rai/leetcode/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/Yashasvi-rai/leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Yashasvi-rai/leetcode/tree/master/0494-target-sum) |
+| [0877-stone-game](https://github.com/Yashasvi-rai/leetcode/tree/master/0877-stone-game) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Yashasvi-rai/leetcode/tree/master/1191-k-concatenation-maximum-sum) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Yashasvi-rai/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Yashasvi-rai/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/Yashasvi-rai/leetcode/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/Yashasvi-rai/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Yashasvi-rai/leetcode/tree/master/0877-stone-game) |
 ## Linked List
 |  |
 | ------- |

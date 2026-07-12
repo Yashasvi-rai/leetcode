@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Yashasvi-rai/leetcode/tree/master/0877-stone-game) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Yashasvi-rai/leetcode/tree/master/1191-k-concatenation-maximum-sum) |
 | [1288-remove-covered-intervals](https://github.com/Yashasvi-rai/leetcode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/Yashasvi-rai/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Yashasvi-rai/leetcode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yashasvi-rai/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Yashasvi-rai/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Yashasvi-rai/leetcode/tree/master/0645-set-mismatch) |
 | [0720-longest-word-in-dictionary](https://github.com/Yashasvi-rai/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [1288-remove-covered-intervals](https://github.com/Yashasvi-rai/leetcode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/Yashasvi-rai/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yashasvi-rai/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Yashasvi-rai/leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Yashasvi-rai/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/Yashasvi-rai/leetcode/tree/master/0460-lfu-cache) |
 | [0645-set-mismatch](https://github.com/Yashasvi-rai/leetcode/tree/master/0645-set-mismatch) |
 | [0720-longest-word-in-dictionary](https://github.com/Yashasvi-rai/leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [1331-rank-transform-of-an-array](https://github.com/Yashasvi-rai/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yashasvi-rai/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Yashasvi-rai/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Bit Manipulation

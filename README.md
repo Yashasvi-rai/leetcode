@@ -321,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Yashasvi-rai/leetcode/tree/master/0292-nim-game) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Yashasvi-rai/leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->

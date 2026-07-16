@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Yashasvi-rai/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Yashasvi-rai/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Yashasvi-rai/leetcode/tree/master/3620-network-recovery-pathways) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yashasvi-rai/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yashasvi-rai/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Yashasvi-rai/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Yashasvi-rai/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yashasvi-rai/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -118,12 +120,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yashasvi-rai/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Yashasvi-rai/leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Yashasvi-rai/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yashasvi-rai/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/Yashasvi-rai/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Yashasvi-rai/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1929-concatenation-of-array](https://github.com/Yashasvi-rai/leetcode/tree/master/1929-concatenation-of-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yashasvi-rai/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -167,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Yashasvi-rai/leetcode/tree/master/0018-4sum) |
 | [0151-reverse-words-in-a-string](https://github.com/Yashasvi-rai/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Yashasvi-rai/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yashasvi-rai/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -329,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3115-maximum-prime-difference](https://github.com/Yashasvi-rai/leetcode/tree/master/3115-maximum-prime-difference) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Yashasvi-rai/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yashasvi-rai/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yashasvi-rai/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Brainteaser
 |  |
 | ------- |

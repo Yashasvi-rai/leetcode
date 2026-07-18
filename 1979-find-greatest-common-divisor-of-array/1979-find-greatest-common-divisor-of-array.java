@@ -1,18 +1,20 @@
 class Solution {
     public int findGCD(int[] nums) {
-
         int min = nums[0];
         int max = nums[0];
 
+        // Find smallest and largest element
         for (int num : nums) {
-            min = Math.min(min, num);
-            max = Math.max(max, num);
+            if (num < min) min = num;
+            if (num > max) max = num;
         }
 
+        // Return GCD of min and max
         return gcd(min, max);
     }
 
-    private int gcd(int a, int b) {
+    // Euclidean Algorithm
+    public int gcd(int a, int b) {
         while (b != 0) {
             int temp = b;
             b = a % b;

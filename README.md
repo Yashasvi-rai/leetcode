@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Yashasvi-rai/leetcode/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/Yashasvi-rai/leetcode/tree/master/0877-stone-game) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Yashasvi-rai/leetcode/tree/master/1191-k-concatenation-maximum-sum) |
+| [1260-shift-2d-grid](https://github.com/Yashasvi-rai/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Yashasvi-rai/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Yashasvi-rai/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Yashasvi-rai/leetcode/tree/master/1354-construct-target-array-with-multiple-sums) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Yashasvi-rai/leetcode/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Yashasvi-rai/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Yashasvi-rai/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1929-concatenation-of-array](https://github.com/Yashasvi-rai/leetcode/tree/master/1929-concatenation-of-array) |
@@ -362,4 +364,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Yashasvi-rai/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Yashasvi-rai/leetcode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->

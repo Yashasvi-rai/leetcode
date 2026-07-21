@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Yashasvi-rai/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Yashasvi-rai/leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Yashasvi-rai/leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Yashasvi-rai/leetcode/tree/master/0070-climbing-stairs) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Yashasvi-rai/leetcode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Yashasvi-rai/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0394-decode-string](https://github.com/Yashasvi-rai/leetcode/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Yashasvi-rai/leetcode/tree/master/0486-predict-the-winner) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Yashasvi-rai/leetcode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Yashasvi-rai/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0146-lru-cache](https://github.com/Yashasvi-rai/leetcode/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/Yashasvi-rai/leetcode/tree/master/0460-lfu-cache) |

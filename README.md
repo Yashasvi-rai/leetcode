@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3115-maximum-prime-difference](https://github.com/Yashasvi-rai/leetcode/tree/master/3115-maximum-prime-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Yashasvi-rai/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Yashasvi-rai/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Yashasvi-rai/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Yashasvi-rai/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Yashasvi-rai/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Yashasvi-rai/leetcode/tree/master/3620-network-recovery-pathways) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Yashasvi-rai/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Yashasvi-rai/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Yashasvi-rai/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Yashasvi-rai/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Yashasvi-rai/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
 |  |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Yashasvi-rai/leetcode/tree/master/0731-my-calendar-ii) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Yashasvi-rai/leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Yashasvi-rai/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Yashasvi-rai/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Yashasvi-rai/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Yashasvi-rai/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Yashasvi-rai/leetcode/tree/master/3620-network-recovery-pathways) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Yashasvi-rai/leetcode/tree/master/0731-my-calendar-ii) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Yashasvi-rai/leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Yashasvi-rai/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Ordered Set
 |  |
 | ------- |

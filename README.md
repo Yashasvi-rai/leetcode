@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Yashasvi-rai/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Yashasvi-rai/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1929-concatenation-of-array](https://github.com/Yashasvi-rai/leetcode/tree/master/1929-concatenation-of-array) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Yashasvi-rai/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yashasvi-rai/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Yashasvi-rai/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Yashasvi-rai/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Yashasvi-rai/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Yashasvi-rai/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Yashasvi-rai/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
 |  |

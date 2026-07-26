@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Yashasvi-rai/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Yashasvi-rai/leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Yashasvi-rai/leetcode/tree/master/0494-target-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Yashasvi-rai/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0636-exclusive-time-of-functions](https://github.com/Yashasvi-rai/leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Yashasvi-rai/leetcode/tree/master/0645-set-mismatch) |
 | [0720-longest-word-in-dictionary](https://github.com/Yashasvi-rai/leetcode/tree/master/0720-longest-word-in-dictionary) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Yashasvi-rai/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0292-nim-game](https://github.com/Yashasvi-rai/leetcode/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/Yashasvi-rai/leetcode/tree/master/0486-predict-the-winner) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Yashasvi-rai/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Yashasvi-rai/leetcode/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/Yashasvi-rai/leetcode/tree/master/0913-cat-and-mouse) |
 | [1492-the-kth-factor-of-n](https://github.com/Yashasvi-rai/leetcode/tree/master/1492-the-kth-factor-of-n) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Yashasvi-rai/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Yashasvi-rai/leetcode/tree/master/0018-4sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Yashasvi-rai/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Yashasvi-rai/leetcode/tree/master/0645-set-mismatch) |
 | [0720-longest-word-in-dictionary](https://github.com/Yashasvi-rai/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [1288-remove-covered-intervals](https://github.com/Yashasvi-rai/leetcode/tree/master/1288-remove-covered-intervals) |

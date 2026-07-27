@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Yashasvi-rai/leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Yashasvi-rai/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Yashasvi-rai/leetcode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/Yashasvi-rai/leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Yashasvi-rai/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Yashasvi-rai/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0292-nim-game](https://github.com/Yashasvi-rai/leetcode/tree/master/0292-nim-game) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Yashasvi-rai/leetcode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Yashasvi-rai/leetcode/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Yashasvi-rai/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/Yashasvi-rai/leetcode/tree/master/0050-powx-n) |
 | [0394-decode-string](https://github.com/Yashasvi-rai/leetcode/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Yashasvi-rai/leetcode/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Yashasvi-rai/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |

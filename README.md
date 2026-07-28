@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Yashasvi-rai/leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Yashasvi-rai/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Yashasvi-rai/leetcode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Yashasvi-rai/leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Yashasvi-rai/leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Yashasvi-rai/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Yashasvi-rai/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Yashasvi-rai/leetcode/tree/master/0029-divide-two-integers) |
 | [0645-set-mismatch](https://github.com/Yashasvi-rai/leetcode/tree/master/0645-set-mismatch) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Yashasvi-rai/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Yashasvi-rai/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |

@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yashasvi-rai/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Yashasvi-rai/leetcode/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Yashasvi-rai/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1563-stone-game-v](https://github.com/Yashasvi-rai/leetcode/tree/master/1563-stone-game-v) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Yashasvi-rai/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1929-concatenation-of-array](https://github.com/Yashasvi-rai/leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yashasvi-rai/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Yashasvi-rai/leetcode/tree/master/1406-stone-game-iii) |
 | [1492-the-kth-factor-of-n](https://github.com/Yashasvi-rai/leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1510-stone-game-iv](https://github.com/Yashasvi-rai/leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Yashasvi-rai/leetcode/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yashasvi-rai/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Yashasvi-rai/leetcode/tree/master/2029-stone-game-ix) |
 | [3115-maximum-prime-difference](https://github.com/Yashasvi-rai/leetcode/tree/master/3115-maximum-prime-difference) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Yashasvi-rai/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1406-stone-game-iii](https://github.com/Yashasvi-rai/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Yashasvi-rai/leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Yashasvi-rai/leetcode/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Yashasvi-rai/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Yashasvi-rai/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Yashasvi-rai/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0913-cat-and-mouse](https://github.com/Yashasvi-rai/leetcode/tree/master/0913-cat-and-mouse) |
 | [1406-stone-game-iii](https://github.com/Yashasvi-rai/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Yashasvi-rai/leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Yashasvi-rai/leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Yashasvi-rai/leetcode/tree/master/2029-stone-game-ix) |
 ## Linked List
 |  |

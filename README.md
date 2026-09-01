@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Yashasvi-rai/leetcode/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Yashasvi-rai/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Yashasvi-rai/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0146-lru-cache](https://github.com/Yashasvi-rai/leetcode/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/Yashasvi-rai/leetcode/tree/master/0460-lfu-cache) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Yashasvi-rai/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Yashasvi-rai/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Yashasvi-rai/leetcode/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Yashasvi-rai/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Yashasvi-rai/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Yashasvi-rai/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Yashasvi-rai/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |

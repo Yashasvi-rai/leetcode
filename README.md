@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Yashasvi-rai/leetcode/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/Yashasvi-rai/leetcode/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/Yashasvi-rai/leetcode/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/Yashasvi-rai/leetcode/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/Yashasvi-rai/leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Yashasvi-rai/leetcode/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/Yashasvi-rai/leetcode/tree/master/0486-predict-the-winner) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Yashasvi-rai/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0093-restore-ip-addresses](https://github.com/Yashasvi-rai/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Yashasvi-rai/leetcode/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/Yashasvi-rai/leetcode/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/Yashasvi-rai/leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Yashasvi-rai/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0394-decode-string](https://github.com/Yashasvi-rai/leetcode/tree/master/0394-decode-string) |

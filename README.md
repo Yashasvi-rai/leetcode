@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3115-maximum-prime-difference](https://github.com/Yashasvi-rai/leetcode/tree/master/3115-maximum-prime-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Yashasvi-rai/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Yashasvi-rai/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Yashasvi-rai/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Yashasvi-rai/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Yashasvi-rai/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Yashasvi-rai/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/Yashasvi-rai/leetcode/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Yashasvi-rai/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Yashasvi-rai/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Yashasvi-rai/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Yashasvi-rai/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Yashasvi-rai/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Recursion
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yashasvi-rai/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Yashasvi-rai/leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yashasvi-rai/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Yashasvi-rai/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Yashasvi-rai/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Yashasvi-rai/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Yashasvi-rai/leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Yashasvi-rai/leetcode/tree/master/0731-my-calendar-ii) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Yashasvi-rai/leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Yashasvi-rai/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Yashasvi-rai/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Yashasvi-rai/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Yashasvi-rai/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Yashasvi-rai/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |

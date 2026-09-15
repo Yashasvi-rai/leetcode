@@ -1,56 +1,64 @@
+import java.util.*;
+
 class Solution {
     public List<Integer> findSubstring(String s, String[] words) {
-        List<Integer> ans = new ArrayList<>();
-
-        if (s == null || s.length() == 0 || words.length == 0) {
-            return ans;
+        List<Integer> result = new ArrayList<>();
+        if (s == null || s.length() == 0 || words == null || words.length == 0) {
+            return result;
         }
 
         int wordLen = words[0].length();
-        int wordCount = words.length;
-        int totalLen = wordLen * wordCount;
+        int numWords = words.length;
+        int totalLen = wordLen * numWords;
+        int sLen = s.length();
 
-        HashMap<String, Integer> map = new HashMap<>();
-
-        for (String word : words) {
-            map.put(word, map.getOrDefault(word, 0) + 1);
+        if (sLen < totalLen) {
+            return result;
         }
 
+        // Frequency map of words to find
+        Map<String, Integer> wordMap = new HashMap<>();
+        for (String word : words) {
+            wordMap.put(word, wordMap.getOrDefault(word, 0) + 1);
+        }
+
+        // Iterate through possible starting offsets
         for (int i = 0; i < wordLen; i++) {
             int left = i;
+            int right = i;
+            Map<String, Integer> seenMap = new HashMap<>();
             int count = 0;
-            HashMap<String, Integer> seen = new HashMap<>();
 
-            for (int j = i; j + wordLen <= s.length(); j += wordLen) {
-                String word = s.substring(j, j + wordLen);
+            while (right + wordLen <= sLen) {
+                String subWord = s.substring(right, right + wordLen);
+                right += wordLen;
 
-                if (map.containsKey(word)) {
-                    seen.put(word, seen.getOrDefault(word, 0) + 1);
+                // Check if the word is part of the words array
+                if (wordMap.containsKey(subWord)) {
+                    seenMap.put(subWord, seenMap.getOrDefault(subWord, 0) + 1);
                     count++;
 
-                    while (seen.get(word) > map.get(word)) {
+                    // If the word count exceeds the expected amount, shrink the window from the left
+                    while (seenMap.get(subWord) > wordMap.get(subWord)) {
                         String leftWord = s.substring(left, left + wordLen);
-                        seen.put(leftWord, seen.get(leftWord) - 1);
+                        seenMap.put(leftWord, seenMap.get(leftWord) - 1);
                         left += wordLen;
                         count--;
                     }
 
-                    if (count == wordCount) {
-                        ans.add(left);
-
-                        String leftWord = s.substring(left, left + wordLen);
-                        seen.put(leftWord, seen.get(leftWord) - 1);
-                        left += wordLen;
-                        count--;
+                    // If we matched all words, record the starting index
+                    if (count == numWords) {
+                        result.add(left);
                     }
                 } else {
-                    seen.clear();
+                    // Reset the window if a non-matching word is encountered
+                    seenMap.clear();
                     count = 0;
-                    left = j + wordLen;
+                    left = right;
                 }
             }
         }
 
-        return ans;
+        return result;
     }
 }

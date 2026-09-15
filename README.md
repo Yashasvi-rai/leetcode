@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Yashasvi-rai/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Yashasvi-rai/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yashasvi-rai/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Yashasvi-rai/leetcode/tree/master/0027-remove-element) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Yashasvi-rai/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0139-word-break](https://github.com/Yashasvi-rai/leetcode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Yashasvi-rai/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Yashasvi-rai/leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Yashasvi-rai/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yashasvi-rai/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Yashasvi-rai/leetcode/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/Yashasvi-rai/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Yashasvi-rai/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Yashasvi-rai/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |

@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Yashasvi-rai/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Yashasvi-rai/leetcode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Yashasvi-rai/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Yashasvi-rai/leetcode/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/Yashasvi-rai/leetcode/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/Yashasvi-rai/leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Yashasvi-rai/leetcode/tree/master/0115-distinct-subsequences) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Yashasvi-rai/leetcode/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/Yashasvi-rai/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Yashasvi-rai/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/Yashasvi-rai/leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Yashasvi-rai/leetcode/tree/master/0050-powx-n) |
 | [0394-decode-string](https://github.com/Yashasvi-rai/leetcode/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Yashasvi-rai/leetcode/tree/master/0486-predict-the-winner) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Yashasvi-rai/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Yashasvi-rai/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Yashasvi-rai/leetcode/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/Yashasvi-rai/leetcode/tree/master/0044-wildcard-matching) |
 | [0093-restore-ip-addresses](https://github.com/Yashasvi-rai/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Yashasvi-rai/leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Yashasvi-rai/leetcode/tree/master/0115-distinct-subsequences) |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Yashasvi-rai/leetcode/tree/master/0044-wildcard-matching) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Yashasvi-rai/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yashasvi-rai/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2029-stone-game-ix](https://github.com/Yashasvi-rai/leetcode/tree/master/2029-stone-game-ix) |

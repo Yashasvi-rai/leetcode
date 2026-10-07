@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Yashasvi-rai/leetcode/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/Yashasvi-rai/leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Yashasvi-rai/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0301-remove-invalid-parentheses](https://github.com/Yashasvi-rai/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0394-decode-string](https://github.com/Yashasvi-rai/leetcode/tree/master/0394-decode-string) |
 | [0720-longest-word-in-dictionary](https://github.com/Yashasvi-rai/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0856-score-of-parentheses](https://github.com/Yashasvi-rai/leetcode/tree/master/0856-score-of-parentheses) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Yashasvi-rai/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0077-combinations](https://github.com/Yashasvi-rai/leetcode/tree/master/0077-combinations) |
 | [0093-restore-ip-addresses](https://github.com/Yashasvi-rai/leetcode/tree/master/0093-restore-ip-addresses) |
+| [0301-remove-invalid-parentheses](https://github.com/Yashasvi-rai/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/Yashasvi-rai/leetcode/tree/master/0494-target-sum) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Yashasvi-rai/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Depth-First Search
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Yashasvi-rai/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0743-network-delay-time](https://github.com/Yashasvi-rai/leetcode/tree/master/0743-network-delay-time) |
 | [2685-count-the-number-of-complete-components](https://github.com/Yashasvi-rai/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Yashasvi-rai/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |

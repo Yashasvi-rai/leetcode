@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Yashasvi-rai/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Yashasvi-rai/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Yashasvi-rai/leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Yashasvi-rai/leetcode/tree/master/0036-valid-sudoku) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Yashasvi-rai/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0139-word-break](https://github.com/Yashasvi-rai/leetcode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Yashasvi-rai/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Yashasvi-rai/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Yashasvi-rai/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Yashasvi-rai/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/Yashasvi-rai/leetcode/tree/master/0036-valid-sudoku) |
 | [0139-word-break](https://github.com/Yashasvi-rai/leetcode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Yashasvi-rai/leetcode/tree/master/0146-lru-cache) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Yashasvi-rai/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Yashasvi-rai/leetcode/tree/master/0036-valid-sudoku) |
 | [1260-shift-2d-grid](https://github.com/Yashasvi-rai/leetcode/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Yashasvi-rai/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Minimax
